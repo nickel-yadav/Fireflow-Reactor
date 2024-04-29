@@ -1,2 +1,2 @@
-# Fireflow-Reactor
-A collection of dynamic web applications crafted using the powerful combination of React and Firebase
+# Nodejs Authenticator
+This repository serves as a comprehensive solution for implementing user authentication and authorization functionalities in Node.js-based applications
